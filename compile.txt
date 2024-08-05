@@ -1,0 +1,1 @@
+g++ -std=c++11 ./src/main.cpp ./src/entity.cpp -I./include/SDL2 -I./include/SDL2_image -I./include/box2d -L./lib/SDL2 -L./lib/SDL2_image -L./lib/box2d -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lBox2d -o ./program.exe

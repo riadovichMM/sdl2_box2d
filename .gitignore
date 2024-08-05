@@ -1,0 +1,6 @@
+.vscode
+include
+lib
+libbox2d.dll
+SDL2_image.dll
+SDL2.dll
